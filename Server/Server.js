@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
@@ -158,6 +159,8 @@ app.listen(port, () => {
   console.log(`listening on port ${port}`);
 });
 =======
+=======
+>>>>>>> added_provider_backend
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
@@ -350,4 +353,7 @@ app.post('/api/providers/login', (req, res) => {
 app.listen(port, () => {
   console.log(`listening on port ${port}`);
 });
+<<<<<<< HEAD
 >>>>>>> d92b234 (Modified And added provider backend and added a new provider dashboard)
+=======
+>>>>>>> added_provider_backend

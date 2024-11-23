@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 document.querySelector("form").addEventListener("submit", async (e) => {
   e.preventDefault();
 
@@ -48,6 +49,8 @@ document.querySelector("form").addEventListener("submit", async (e) => {
   }
 });
 =======
+=======
+>>>>>>> added_provider_backend
 document.querySelector("form").addEventListener("submit", async (e) => {
   e.preventDefault();
 
@@ -96,4 +99,7 @@ document.querySelector("form").addEventListener("submit", async (e) => {
     alert("Failed to place the order. Please try again.");
   }
 });
+<<<<<<< HEAD
 >>>>>>> d92b234 (Modified And added provider backend and added a new provider dashboard)
+=======
+>>>>>>> added_provider_backend

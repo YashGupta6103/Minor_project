@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", () => {
     const restrictedLinks = [
       "Tiffin.html",
@@ -26,6 +27,8 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 =======
+=======
+>>>>>>> added_provider_backend
 document.addEventListener("DOMContentLoaded", () => {
     const restrictedLinks = [
       "Tiffin.html",
@@ -52,5 +55,8 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
+<<<<<<< HEAD
 >>>>>>> d92b234 (Modified And added provider backend and added a new provider dashboard)
+=======
+>>>>>>> added_provider_backend
   
